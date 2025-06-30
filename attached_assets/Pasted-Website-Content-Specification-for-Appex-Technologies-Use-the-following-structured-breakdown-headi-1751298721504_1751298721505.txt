@@ -1,0 +1,130 @@
+Website Content Specification for “Appex Technologies”
+
+Use the following structured breakdown—headings, sub‑headings, copy, lists and assets—to feed into your site‑building prompt.
+
+1. Brand & Hero Section
+Name & Tagline
+“Appex Technologies – Best Software Training Institute in Coimbatore” 
+appextechnologies.com
+
+Primary Hero Courses (rotating banner/slides)
+
+Best Software Testing Course
+
+Best Python Course
+
+Best .NET & MVC Course 
+appextechnologies.com
+
+Secondary Hero Tiles
+
+Digital Marketing
+
+Web Development
+
+Training Institute 
+appextechnologies.com
+
+2. About Us
+“Appex Technologies is the best software training company in Coimbatore, started by an experienced expert to act as a bridge between students and the IT companies. Technically trained by Appex Technologies to meet bright ideas, active brains, aimed skills, and corporate needs. The fear of students may back them off and they don’t get the right platform to show their technical knowledge to place in the company. Appex Technologies offers a unique path to your career in a short period of time. We sense there are a lot of job opportunities so don’t lessen your ambitions in the dark. Appex Technologies has 13+ experienced trainers from IT backgrounds to grant the best data for the students, concentrating on every student individually to make them strong technically.” 
+appextechnologies.com
+
+3. Course Offerings
+(Use icons/images + brief descriptors)
+
+Automation Testing
+
+Selenium, Cucumber, Jira, Katalon Studio 
+appextechnologies.com
+
+Core & Advanced Java (Java/J2EE)
+
+Servlets, JDBC, JSP, EJB, Spring, Hibernate 
+appextechnologies.com
+
+.NET & MVC
+
+C#, ASP.NET, MVC, Web API 
+appextechnologies.com
+
+Python with Django 
+appextechnologies.com
+
+Digital Marketing with SEO
+
+SEO, SEM, SMM, SMO, Content & Email Marketing 
+appextechnologies.com
+
+Artificial Intelligence 
+appextechnologies.com
+
+Machine Learning 
+appextechnologies.com
+
+UI/UX Designing 
+appextechnologies.com
+
+Big Data / Data Analytics 
+appextechnologies.com
+
+Frontend Frameworks (Node.js, Angular, React) 
+appextechnologies.com
+
+(New per client request) C & C++ Development
+
+Full‑Stack Development
+
+SAP FICO
+
+4. Core Services
+Online Courses — Anytime & Anywhere
+
+Classroom Training — “A student of life considers the world the classroom.”
+
+Real‑Time Training — 100 % student satisfaction; hands‑on practical sessions
+
+Experienced Staff — Trainers currently working in the IT sector
+
+Free Placement Assistance
+
+Interview Preparation 
+appextechnologies.com
+
+5. Testimonials
+Shreeja (Software Testing)
+“I joined software testing (manual + automation) … thanks Appex for making my future.”
+
+Harish (DotNet & MVC)
+“One of the best institutes where you get the quality.”
+
+Shanma (Digital Marketing & Web Dev)
+“Really grateful to Appex Technologies for making me a successful digital marketer with web development.” 
+appextechnologies.com
+
+6. Current Batches & Extras
+Ongoing Batches: Python, Java, .NET, etc.
+
+Internship Opportunities & Live Projects
+
+7. Contact & Social
+Phone: 93611 63851 / 0422 497 8026 
+appextechnologies.com
+
+Email: appextechnologies28@gmail.com 
+appextechnologies.com
+
+Address: No 15‑18, R R Layout, New Siddhapudur, Gandhipuram, Coimbatore – 44 
+appextechnologies.com
+
+Facebook: https://www.facebook.com/appextechnologies/
+
+Notes for Prompt
+Include high‑quality lifestyle/training imagery.
+
+Use a clean, modern color palette (e.g., yellow & black accent per brand).
+
+Emphasize calls‑to‑action: “Register Now”, “Call Now”, “View Courses”.
+
+Ensure responsive layout (desktop/mobile), with clear navigation: Home, About, Courses, News, Contact.
+
+Integrate testimonial carousel and sticky “Call Now” button.
