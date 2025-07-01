@@ -1,0 +1,125 @@
+✅ Website Creation Prompt for AI or Developer:
+Create a modern, interactive, mobile-friendly website for “Appex Technologies”, a top software training institute based in Coimbatore. Follow these detailed instructions:
+
+🧱 Technology Stack:
+HTML5
+
+CSS3
+
+JavaScript (Vanilla)
+
+Optional: GSAP or AOS for animations, Font Awesome for icons
+
+🎨 Theme and Style:
+Color Scheme: Black background, Yellow highlights, and White text
+
+Font: Poppins or Montserrat via Google Fonts
+
+Responsive for mobile, tablet, and desktop
+
+🧭 Navigation Bar:
+Sticky top nav bar with links to:
+
+Home
+
+About
+
+Courses
+
+Testimonials
+
+Contact
+
+Use scroll spy logic: as the user scrolls, highlight the current section link in the nav bar
+
+🏠 Home Section:
+Hero banner with main title: “Build Your Future with Appex Technologies”
+
+Subtitle: “Best Software Training Institute in Coimbatore”
+
+Call-to-Action button: “Call Now” (tel:+919361163851)
+
+ℹ️ About Section:
+Overview about the institute
+
+Include stats with animated counters:
+
+“500+ Students Trained”
+
+“100% Placement Assistance”
+
+“13+ Expert Trainers”
+
+📚 Courses Section:
+Display all courses in card/grid format:
+
+C & C++
+
+Java
+
+Python
+
+Dotnet
+
+UI/UX
+
+Frontend Developer
+
+Fullstack
+
+AI
+
+Data Science
+
+Data Analytics
+
+SAP (FICO)
+
+Digital Marketing
+
+Testing
+
+Add hover animation and “Enroll Now” button on each card
+
+🗣️ Testimonials Section:
+Carousel or fade-in slider
+
+Include at least 2 student testimonials with names
+
+📞 Contact Section:
+Show:
+
+Phone: 93611 63851 (click to call)
+
+Email: appextechnologies28@gmail.com (click to mail)
+
+Social Links:
+
+Facebook: https://www.facebook.com/appextechnologies/
+
+Instagram: https://www.instagram.com/appextechnologies/?next=%2F
+
+Include embedded Google Map (Coimbatore location)
+
+Floating fixed side buttons (Call, WhatsApp, Email, Facebook, Instagram)
+
+⚙️ JavaScript Features:
+Smooth scroll
+
+Scroll-spy to highlight nav links
+
+Section fade-in on scroll
+
+Modal or flip effect for course cards (optional)
+
+📱 Responsiveness:
+Use media queries for mobile
+
+Hamburger menu for nav on small screens
+
+Ensure mobile tap targets are easy to use
+
+🧩 Deployment:
+Host on GitHub Pages or Netlify
+
+Use favicon and logo
